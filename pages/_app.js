@@ -1,6 +1,6 @@
 // pages/_app.js
 import '../styles/globals.css';
-import Head from 'next/head'; // HeadƒRƒ“ƒ|[ƒlƒ“ƒg‚ğƒCƒ“ƒ|[ƒg
+import Head from 'next/head'; // Headã‚³ãƒ³ãƒãƒ¼ãƒãƒ³ãƒˆã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆ
 
 function MyApp({ Component, pageProps }) {
   return (

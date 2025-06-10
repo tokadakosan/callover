@@ -1,8 +1,8 @@
 // next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true, // 開発中に追加のチェックを有効にする
-  swcMinify: true, // SWCによる高速なトランスパイルと最小化を有効にする
+  reactStrictMode: true, // 髢狗匱荳ｭ縺ｫ霑ｽ蜉縺ｮ繝√ぉ繝�繧ｯ繧呈怏蜉ｹ縺ｫ縺吶ｋ
+  swcMinify: true, // SWC縺ｫ繧医ｋ鬮倬溘↑繝医Λ繝ｳ繧ｹ繝代う繝ｫ縺ｨ譛蟆丞喧繧呈怏蜉ｹ縺ｫ縺吶ｋ
 };
 
 module.exports = nextConfig;

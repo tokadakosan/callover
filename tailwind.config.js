@@ -8,7 +8,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      // �J�X�^���e�[�}�ݒ�������ɒǉ��ł��܂�
+      // カスタムテーマ設定をここに追加できます
     },
   },
   plugins: [],
